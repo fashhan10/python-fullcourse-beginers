@@ -4,7 +4,7 @@
 Created on Thu Sep  9 19:04:52 2021
 
 @author: bocuin
-@source : belajarpython.com
+@source : belajarpython.com | w3school.com/python
 @tag : #belajar_python dasar
 """
 
