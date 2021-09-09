@@ -4,8 +4,7 @@
 Created on Thu Sep  9 19:44:56 2021
 
 @author: bocuin
-"""
-"""
+
 Berikut adalah daftar lengkap simbol yang bisa digunakan bersamaan dengan % :
 Operator 	Penjelasan
 %c 	        character
@@ -19,6 +18,8 @@ Operator 	Penjelasan
 %e 	        Notasi eksponensial (dengan huruf kecil ‘e’)
 %E 	        Notasi eksponensial (dengan huruf besar ‘E’)
 %f 	        Bilangan real floating point
-%g 	Yang lebih pendek dari% f dan% e
-%G 	Lebih pendek dari% f dan% E
-"""
+%g 	        Yang lebih pendek dari% f dan% e
+%G 	        Lebih pendek dari% f dan% E
+
+Ini bisa kalian hafalkan karena semua bahasa pemprograman
+Menggunakan simbol % ini terimakasih
